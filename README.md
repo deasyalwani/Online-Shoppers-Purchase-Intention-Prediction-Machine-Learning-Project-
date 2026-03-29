@@ -1,0 +1,2 @@
+# Online-Shoppers-Purchase-Intention-Prediction-Machine-Learning-Project-
+This project focuses on predicting online shoppers’ purchase intention using machine learning to improve digital marketing targeting efficiency.  The model analyzes user session behavior to identify high-intent customers, enabling businesses to optimize marketing strategies, reduce inefficient spending, and improve conversion rates.
